@@ -1,0 +1,7 @@
+C:\CSharp\Csharp\calcularPoupanca\bin\Debug\calcularPoupanca.exe.config
+C:\CSharp\Csharp\calcularPoupanca\bin\Debug\calcularPoupanca.exe
+C:\CSharp\Csharp\calcularPoupanca\bin\Debug\calcularPoupanca.pdb
+C:\CSharp\Csharp\calcularPoupanca\obj\Debug\calcularPoupanca.csprojAssemblyReference.cache
+C:\CSharp\Csharp\calcularPoupanca\obj\Debug\calcularPoupanca.csproj.CoreCompileInputs.cache
+C:\CSharp\Csharp\calcularPoupanca\obj\Debug\calcularPoupanca.exe
+C:\CSharp\Csharp\calcularPoupanca\obj\Debug\calcularPoupanca.pdb

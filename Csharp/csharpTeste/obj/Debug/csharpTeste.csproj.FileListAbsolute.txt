@@ -1,0 +1,7 @@
+C:\CSharp\Csharp\csharpTeste\bin\Debug\csharpTeste.exe.config
+C:\CSharp\Csharp\csharpTeste\bin\Debug\csharpTeste.exe
+C:\CSharp\Csharp\csharpTeste\bin\Debug\csharpTeste.pdb
+C:\CSharp\Csharp\csharpTeste\obj\Debug\csharpTeste.csprojAssemblyReference.cache
+C:\CSharp\Csharp\csharpTeste\obj\Debug\csharpTeste.csproj.CoreCompileInputs.cache
+C:\CSharp\Csharp\csharpTeste\obj\Debug\csharpTeste.exe
+C:\CSharp\Csharp\csharpTeste\obj\Debug\csharpTeste.pdb
